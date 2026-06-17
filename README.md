@@ -75,7 +75,7 @@ The GameStop dashboard is a fascinating case study — the revenue chart shows y
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/stock-dashboard-project.git
+git clone https://github.com/shivanshbtr/stock-dashboard-project.git
 cd stock-dashboard-project
 ```
 
