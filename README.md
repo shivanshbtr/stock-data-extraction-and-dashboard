@@ -23,7 +23,7 @@ stock-dashboard-project/
 ├── notebooks/
 │   └── Revenue_Data_and_Building_a_Dashboard.ipynb   # Main analysis notebook
 │
-├── images/                  # Output dashboard screenshots (add after running)
+├── images/                  # Output dashboard screenshots
 ├── data/                    # Placeholder for any saved data files
 ├── requirements.txt         # Python dependencies
 ├── .gitignore               # Files excluded from version control
